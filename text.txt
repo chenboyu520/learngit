@@ -4,4 +4,4 @@ khdophjfojhpfojfopjpopojpojgodjh
 jhfkj;lfkn;fmjn;f
 ikjytgikg
 On branch master
-Your branch is up to date with 'origin/master'.
+Your branch is up to date with 'origin/master'.git checkout -b devgit checkout -b dev
